@@ -1,4 +1,4 @@
-Welcome to my **Oasis Infobyte Data Science Internship Repository**, a collection of real-world Data Science,Machine Learning and Natural Language Processing projects completed during the internship program.
+You are welcome to Ayush Singh's **Oasis Infobyte Data Science Internship Repository**, a collection of real-world Data Science,Machine Learning and Natural Language Processing projects completed during the internship program.
 
 This repository demonstrates practical applications of:
 * Exploratory Data Analysis(EDA)
@@ -224,7 +224,7 @@ This repository contains **9 end-to-end Data Science projects** covering the com
 
 
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
 OIBSIP/
@@ -249,7 +249,7 @@ OIBSIP/
 
 
 
-# 📊 Datasets Used
+# Datasets Used
 
 | Project                    | Dataset                          |
 | -------------------------- | -------------------------------- |
@@ -290,7 +290,7 @@ jupyter notebook
 
 -----------------------------------------
 
-# 📦 Requirements
+# Requirements
 
 Create a `requirements.txt` file with:
 
@@ -313,7 +313,7 @@ ipykernel>=6.25.0
 
 -----------------------------------------
 
-# 🎯 Skills Demonstrated
+# Skills Demonstrated
 
 ### Data Science
 * Exploratory Data Analysis
@@ -339,7 +339,7 @@ ipykernel>=6.25.0
 
 -----------------------------------------
 
-# 🏆 Key Learning Outcomes
+# Key Learning Outcomes
 
 Throughout this internship, I developed practical experience in:
 * Building end-to-end machine learning pipelines
@@ -351,14 +351,14 @@ Throughout this internship, I developed practical experience in:
 
 -----------------------------------------
 
-# 👨‍💻 Author
+# Author
 
 **Ayush Singh**
 GitHub: https://github.com/thorfinnvessel
 email: ayushsingh.genai@gmail.com
 -----------------------------------------
 
-# ⭐ Support
+# Support
 If you found this repository useful, please consider giving it a ⭐ on GitHub.
 It helps support my learning journey and encourages further open-source contributions.
 
