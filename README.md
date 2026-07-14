@@ -1,4 +1,4 @@
-You are welcome to Ayush Singh's **Oasis Infobyte Data Science Internship Repository**, a collection of real-world Data Science,Machine Learning and Natural Language Processing projects completed during the internship program.
+You are welcome to Ayush Singh's **Data Analysis Repository**, a collection of real-world Data Science,Machine Learning and Natural Language Processing projects completed in it.
 
 This repository demonstrates practical applications of:
 * Exploratory Data Analysis(EDA)
@@ -12,7 +12,7 @@ This repository demonstrates practical applications of:
 -----------------------------------------
 
 ## Repository Overview
-This repository contains **9 end-to-end Data Science projects** covering the complete data science workflow:
+This repository contains **9 end-to-end Data Analysis projects** covering the complete data science & analysis workflow:
 
 ✔ Data Collection & Preparation
 ✔ Exploratory Data Analysis
@@ -227,7 +227,7 @@ This repository contains **9 end-to-end Data Science projects** covering the com
 # Repository Structure
 
 ```text
-OIBSIP/
+MyDataAnalytics/
 │
 ├── DataAnalytics-L1-EDARetailSales.ipynb
 ├── DataAnalytics-L1-CustSegmentation.ipynb
